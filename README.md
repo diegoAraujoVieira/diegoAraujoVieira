@@ -4,7 +4,7 @@
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoAraujoVieira&show_icons=true&theme=tokyonight)
 
-### Atualmente estou no 2º semestre do curso de Análise e Desenvolvimento de Sistemas.
+### Atualmente cursando Análise e Desenvolvimento de Sistemas.
 ### Tecnologias que estou estudando:
 <div style='display: inline_block'><br/>
     <img alt='python' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
