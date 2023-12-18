@@ -4,7 +4,7 @@
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoAraujoVieira&show_icons=true&theme=tokyonight)
 
-### Atualmente cursando Análise e Desenvolvimento de Sistemas.
+### Atualmente ocupando o cargo de técnico de operação e serviço remoto (Operador Help Desk).
 ### Tecnologias que estou estudando:
 <div style='display: inline_block'><br/>
     <img alt='python' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
